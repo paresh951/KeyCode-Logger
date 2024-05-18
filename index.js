@@ -13,11 +13,4 @@ document.addEventListener("keydown",function(e){
 
 })
 
-// document.addEventListener('keydown', (event) => {
-//     const key = event.key;
-//     const keyCode = event.keyCode;
 
-//     // Update the HTML content with the key and keyCode
-//     document.getElementById('heading').textContent = key;
-//     document.getElementById('span').textContent = keyCode;
-// });
